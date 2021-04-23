@@ -1,4 +1,12 @@
-# Employeemanagerapp
+# Employee Manager App
+
+Simple application for managing employee. In Employee manager you can
+- add new employee
+- delete employee
+- update employee data
+- search for employee
+
+This project was made with Spring Boot Full Stack with Angular Full Course [2021] by Amigoscode (https://www.youtube.com/watch?v=Gx4iBLKLVHk). It's the front end level of an application. To run the whole project you need also a backend level (https://github.com/JakubKasprzak2020/employeemanager).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
 
